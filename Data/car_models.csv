@@ -1,0 +1,11 @@
+car_model_id,model_name,brand_id,price,year_of_manufacture,category,engine_type
+CM8786,Mahindra XUV700,PT2373,1403000,2024,SUV,Diesel/Petrol
+CM4519,Kia Carens,PT9570,1045000,2024,Minivan/MPV,Petrol/Diesel
+CM1920,Toyota Innova Crysta,PT5755,1999000,2024,Minivan/MPV,Petrol/Diesel
+CM1897,Toyota Hilux,PT5128,3040000,2024,Pickup Truck,Diesel
+CM6292,Hyundai i20,PT6042,700000,2024,Hatchback,Petrol/Diesel
+CM2340,Toyota Hilux,PT5029,3040000,2024,Pickup Truck,Diesel
+CM6247,Maruti Suzuki Ciaz,PT4111,940000,2024,Sedan,Petrol/Diesel
+CM8329,Mahindra Bolero Pik-Up,PT5755,885000,2024,Pickup Truck,Diesel
+CM2157,Renault Kwid,PT5029,469000,2024,Hatchback,Petrol/Diesel
+CM4665,Hyundai Creta,PT5755,1099000,2024,SUV,Diesel/Petrol

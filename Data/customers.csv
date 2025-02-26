@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,phone_number,address,date_of_birth,registration_date
+CU6441,Nancy,Jackson,jasmineclarke@example.net,(511)943-6649x9736,"409 Alison Plain Suite 400
+Jonesfort, VT 10957",1961-07-05,2024-01-03 08:57:22
+CU5440,Tonya,Garrett,middletonsharon@example.net,+1-393-498-3072x05265,"36968 Abigail Pike
+New Heather, ND 98709",1986-07-30,2022-12-10 17:56:59
+CU4499,Becky,Lee,linnicole@example.com,(676)489-1746,"342 Laura Skyway
+Port Autumn, WY 02996",1992-06-08,2024-01-09 18:09:16
+CU1574,Joshua,Sharp,sherimoore@example.com,001-926-521-6015x085,"68576 Colon Flat Suite 977
+South Jenniferton, NJ 79646",1989-12-28,2023-12-12 16:19:32
+CU3887,Courtney,Harris,lisamaldonado@example.org,+1-446-576-5368,"3287 Gary Grove Suite 452
+New Michaelville, NV 79263",1946-01-06,2023-10-24 15:12:31
+CU3348,Marc,Dunn,patricksalazar@example.com,(318)373-2624x720,"7683 Schroeder Canyon
+Janetfurt, OK 17232",2003-04-18,2023-07-26 21:05:54
+CU2683,Catherine,Valdez,rodriguezjason@example.org,(876)354-8983x0016,"5530 Daniel Mission
+North Randyview, NE 28272",1944-06-20,2024-05-19 15:41:39
+CU8791,Paul,Vasquez,qcline@example.net,001-456-253-8146x5220,"7105 Randall Glen
+Danielsberg, MT 26975",1959-03-21,2023-05-15 21:10:11
+CU3647,Alexander,Cowan,kayleefigueroa@example.net,+1-804-706-7882x89706,"5738 Lindsey Village
+North Mikefurt, ME 84165",1986-03-25,2023-03-03 06:50:13
+CU4586,Carla,Nelson,nancy65@example.net,001-592-441-9075x948,"7783 Rose Road
+South Kevin, VT 26593",1997-03-19,2023-02-12 10:16:04
+CU2850,Martin,Howard,lambertcraig@example.org,(851)547-1505,"27880 Steven Mills
+Matthewsberg, AS 03469",1964-04-08,2023-09-16 18:31:31
+CU2349,Kimberly,Smith,lwilliams@example.org,(591)496-2314x0892,"2625 Hayes Isle Suite 389
+New Melissabury, IL 40756",1956-11-08,2023-02-17 03:21:29
+CU4744,Aaron,Boyd,nmason@example.org,8306767441,"Unit 0399 Box 4319
+DPO AA 14628",1963-05-29,2025-01-27 19:03:04
+CU1036,Marvin,Wilcox,david26@example.org,+1-273-290-7331,"531 Lee Alley
+East Kim, MD 76472",1976-11-17,2024-10-01 00:11:22
+CU3514,Jorge,Moore,coxdavid@example.org,001-820-392-0070x3740,"USNV Irwin
+FPO AP 32485",1954-05-21,2024-04-24 05:09:11
+CU8666,John,Taylor,halexander@example.com,001-446-727-5687x395,"USNS Lewis
+FPO AE 47422",1945-03-14,2022-07-28 23:58:42
+CU9798,Lori,Wilson,daniel43@example.org,522-976-9198x3769,"Unit 8074 Box 3430
+DPO AA 05683",1992-12-16,2025-01-07 09:51:17
+CU1532,Denise,Powell,gordonleslie@example.net,572.874.8912x5860,"5420 Anthony Station Suite 011
+Deborahburgh, OH 61583",1998-05-02,2022-07-25 20:35:13
+CU4882,James,Ortega,khanbarbara@example.net,001-331-997-3574x300,"80622 Tucker River
+North David, CA 16144",1970-02-03,2025-01-15 11:54:46
+CU9972,Jared,Turner,millervictoria@example.net,3255143416,"91405 Nicholas Cove Apt. 115
+Kylieside, AS 53398",1997-09-29,2023-11-23 22:24:19
+CU6852,Pamela,Lewis,bennettjason@example.org,001-259-515-5065x36237,"69745 Martin Causeway Suite 263
+Lesliemouth, ME 83308",1959-04-20,2022-05-20 04:19:39
+CU2563,Justin,Jacobs,traceystewart@example.net,001-424-973-7404x9092,"30139 Adam Orchard Apt. 096
+Colemanfort, LA 88819",2000-06-26,2022-11-05 07:11:37
+CU4630,Tyler,Brewer,angelica02@example.com,(383)278-7069,"807 Montes Estate Apt. 073
+Wilsonchester, CT 95306",1959-03-14,2023-12-14 05:02:20
+CU9448,Angela,Jones,ronald02@example.org,788.559.1895x018,"8619 Sue Common Apt. 397
+East Jennifermouth, IN 89249",2003-11-15,2023-04-24 20:19:21
+CU8290,Michael,Parks,kjohnson@example.org,9037659321,"728 Erica Plaza
+Lake William, AL 10467",1949-10-04,2024-01-13 19:58:50
+CU7095,Kenneth,Mitchell,mcmahonperry@example.org,+1-457-275-2233x8668,"69039 Johnson Mills Suite 849
+South Dianachester, CO 97910",1944-05-28,2023-11-10 07:53:24
+CU9087,Eileen,Oneal,thompsonbilly@example.com,(762)913-5184x68864,"4765 Davis Valleys Suite 115
+North Deanbury, OR 49364",1988-11-12,2022-03-24 06:56:57
+CU5760,Andrew,Jensen,kathrynmccullough@example.com,+1-906-953-3264,"85489 Joseph Port
+Joannaborough, SD 24571",1969-08-19,2023-10-24 21:34:23
+CU6128,Sandra,Robinson,bruce72@example.com,(504)858-5898x5826,"3799 Turner Mission Suite 210
+Port Jared, OH 26095",1954-08-07,2024-07-10 18:17:33
+CU8588,Gregory,Evans,steeledanielle@example.org,771-329-6118,"3474 Sanchez Estates Suite 632
+East Michael, ND 50612",1978-04-12,2022-10-09 05:34:04
+CU5930,Jessica,Stevenson,lisa92@example.org,602.346.6264x5053,"99206 Andrew Islands
+New Davidville, MO 89225",1960-11-16,2023-03-27 00:59:22
+CU2526,Rebecca,Gibson,juarezwilliam@example.com,5503759307,"526 Billy Branch Suite 856
+North Dawn, KY 03665",1954-01-08,2022-11-17 14:08:27
+CU5132,Julia,Wright,daviskenneth@example.org,+1-512-713-4159,"227 Merritt Ford
+Lake Lisa, PA 30742",1949-08-20,2023-10-28 03:02:08
+CU5060,Paul,Allen,mdiaz@example.net,001-208-934-0093x5831,"775 Hickman View Suite 269
+Lake Brandon, AR 57757",1979-01-18,2022-09-27 20:17:14
+CU9105,Christopher,Gardner,davidhernandez@example.com,877.443.2976x750,"2148 Greene Walks
+West Alexander, OK 73736",1961-06-18,2025-01-28 23:43:41
+CU5407,Michelle,Wallace,khunt@example.org,001-738-370-3543x199,"PSC 2357, Box 7112
+APO AA 42464",1984-01-12,2024-02-22 00:21:21
+CU2453,Yolanda,Barnes,tyronedominguez@example.org,789-827-7637x20121,"644 Miranda Harbors
+Roweland, WY 53576",1944-09-17,2023-09-29 03:57:32
+CU6409,Melanie,Ford,michelewright@example.org,7104871036,"PSC 2334, Box 0813
+APO AE 12959",1993-04-19,2023-12-03 06:03:27
+CU5209,Cindy,Colon,heathersmith@example.com,2295342962,"5456 Jimenez Alley Suite 065
+East Chase, PW 44995",1949-03-31,2022-05-21 04:25:55
+CU9372,Penny,Lewis,freemantammy@example.org,5345604220,"93123 Anthony Meadow
+Smithberg, GU 79829",1999-03-17,2024-09-10 16:27:20
+CU4871,Angelica,Robinson,gwalker@example.org,(601)348-9806x855,"11668 Chris Dale
+East Matthew, GA 38599",1988-11-02,2022-06-08 11:09:29
+CU5496,James,Branch,ambershannon@example.org,889.449.2131x69593,"921 Dustin Gardens
+New Melissa, IN 76964",1992-01-20,2024-10-19 08:15:36
+CU6753,Marc,Kim,schneiderlindsey@example.com,3667338662,"6635 Barbara Hills
+Monicatown, AR 99620",2005-10-18,2023-11-12 14:37:29
+CU9670,Edward,Walsh,tinarobinson@example.org,332-257-2425,"4198 Adams Plains Apt. 929
+Brownview, OR 30472",1969-02-10,2024-08-11 20:29:31
+CU7122,Robert,Mendez,tylercampbell@example.net,586-409-7489x71779,"347 Kelley Spurs Apt. 779
+Port Allisonside, WA 04562",1964-11-21,2022-10-14 02:07:28
+CU6659,Susan,Brown,cochranjames@example.net,+1-550-435-5544x3581,"55971 Ali Harbors Suite 653
+Wallacemouth, KS 06908",1972-03-10,2023-01-14 14:47:43
+CU1738,Erik,Mccormick,waynetanner@example.org,(322)279-0300x52886,"666 Brady Light
+Lake Scottburgh, MS 69584",1962-05-06,2022-09-07 13:33:09
+CU6036,Joseph,Stephens,dustinsmith@example.com,947-822-8126,"18397 Anna Vista Suite 030
+Nicholasborough, MH 66121",1993-06-06,2023-12-18 17:52:39
+CU3642,Luis,Jackson,stephenbrewer@example.net,7262330353,"49494 Moore Burgs
+Sototown, NJ 86849",1987-07-19,2023-06-10 16:18:24
+CU2009,Nancy,Estrada,gregoryjodi@example.net,397.811.3108,"88233 Thomas Village
+North David, NE 97715",1953-01-27,2024-02-09 21:35:19
+CU5067,Jeffrey,Frank,nathan86@example.org,202.238.8579,"392 Morales Path Suite 758
+New Michaelmouth, NV 83247",1967-04-05,2023-01-14 06:37:17
+CU1641,Erica,Castaneda,adammoreno@example.net,563-524-4793x96459,"7217 Smith Shore Suite 556
+Moorefort, MO 02436",1948-05-25,2023-02-01 09:04:42
+CU5911,Brian,Flores,douglasbailey@example.org,+1-409-843-2248,"748 Snyder Well
+Jonesside, TN 75814",1962-10-28,2024-07-29 20:43:09
+CU7056,Stephanie,Lopez,kristina61@example.org,6159406003,"09534 Davis Harbor
+Houstonbury, RI 26803",1959-09-30,2022-09-02 01:40:30
+CU2932,Jamie,Bullock,tcampbell@example.net,454-356-6217x25997,"Unit 9024 Box 4014
+DPO AE 21324",1987-01-29,2024-02-28 12:54:22
+CU6208,Tiffany,Black,cbradshaw@example.net,6997071602,"96521 Shannon Curve Suite 965
+East Amytown, AL 04135",1946-07-07,2023-10-31 15:03:02
+CU9005,Kathryn,Burton,victoria00@example.org,001-645-404-7554x429,"4451 Huang Road Suite 520
+Brianmouth, IN 38761",1971-02-18,2023-04-24 13:08:09
+CU2943,Timothy,Wolfe,sandraadams@example.org,(371)692-8025x34951,"16586 Patton Walk
+West Debra, AK 12237",1974-10-19,2023-04-21 03:39:36
+CU7560,Samantha,Mcpherson,omitchell@example.net,+1-468-422-4094x87116,"USCGC Ewing
+FPO AE 21306",1990-11-08,2024-09-27 14:01:06
+CU3477,Frank,Johnson,mhammond@example.org,2105192508,"4513 Salazar Estates
+Matthewview, AR 07073",1995-10-30,2023-09-28 19:22:54
+CU6364,Michael,Mueller,leslieterry@example.org,549-400-2906x193,"82863 Sweeney Bypass Suite 712
+Edwinton, ND 75754",1987-12-06,2023-10-14 06:59:27
+CU2590,Lauren,Dennis,stephen45@example.com,+1-939-702-5207x7314,"Unit 3376 Box 4493
+DPO AA 02633",1976-12-14,2023-02-11 08:39:54
+CU3697,Daniel,Ramsey,brettroman@example.net,(263)918-1753x8315,"912 Jill Fort
+Harrisport, DC 04531",1956-02-16,2023-10-22 00:08:44
+CU3601,David,Garrison,bruce42@example.net,(566)611-5014x715,"17770 Kaitlyn Pass Suite 468
+Jeremymouth, PW 55699",1954-03-15,2024-10-16 16:44:43
+CU9209,Danielle,Wallace,johnwalker@example.com,7137977580,"008 Holmes Corner Suite 221
+Andrewmouth, PA 28729",1952-07-20,2024-06-09 03:12:24
+CU6987,Gregory,Patterson,brandi07@example.com,4525685982,"USCGC Duarte
+FPO AP 86462",2006-07-01,2024-07-26 10:30:11
+CU6222,Jason,Gonzalez,zwilliams@example.com,(227)704-8792x79021,"48908 Eric Field Suite 974
+South Edwardberg, MI 79542",1986-04-01,2024-01-22 14:22:32
+CU7881,Richard,Meyers,jasmine01@example.net,777.803.9794x1722,"184 Jennifer Roads Suite 251
+Lopezmouth, GU 58460",1973-01-04,2023-05-02 10:15:39
+CU7828,Jose,Romero,amandaroberts@example.net,+1-430-356-1495x095,"85694 Thomas Roads
+West April, SC 12283",1962-12-14,2022-11-04 23:20:07
+CU9220,Jonathan,Reed,azimmerman@example.com,911.859.8104x955,"485 Chase Lights
+Port Larrymouth, AK 77189",1945-09-24,2022-08-25 10:24:36
+CU1325,Angela,Yang,alvareztroy@example.org,948-372-0516x499,"7362 Joseph Loop Suite 125
+Humphreychester, NM 74782",1982-03-18,2022-11-28 02:36:35
+CU2783,Andrew,Le,phillipturner@example.net,001-621-668-0380x908,"Unit 0179 Box 0026
+DPO AP 62036",2005-08-31,2022-11-30 13:19:15
+CU6663,James,Adams,freemanmichael@example.net,200.254.6457x096,"543 Christy Street
+Franklinton, CT 50745",1977-12-03,2023-12-22 04:56:15
+CU9930,Carol,Boone,bullocksteven@example.com,587-867-4774x569,"18818 Sarah Locks Apt. 804
+North Brittneyport, GA 75327",1974-03-04,2024-01-27 04:05:12
+CU8268,Gary,Murphy,krauseryan@example.com,+1-661-905-5092x09846,"7050 Julia Center Apt. 727
+Kimberlymouth, TN 31267",1995-09-29,2022-09-12 20:36:50
+CU7331,Alexis,Morgan,cgonzales@example.net,555-925-4002x61074,"5296 Dean Harbor Apt. 403
+Youngfurt, IA 81777",1975-10-25,2025-01-05 21:55:26
+CU5568,Zachary,Carlson,richard20@example.org,001-722-703-4130x1796,"2152 Powers Mills
+Elizabethtown, VA 71289",2006-07-02,2024-08-08 15:17:24
+CU3499,Mary,Leblanc,nbradford@example.net,(591)284-9425x043,"226 Brian Valley
+Port Brenda, GA 31684",1964-10-15,2023-02-09 02:50:25
+CU1983,Ian,Gordon,ballardsusan@example.org,(745)647-6658x159,"0945 Crystal Motorway
+Lake Carol, UT 18299",1976-06-26,2024-11-16 08:46:15
+CU9807,Jeanette,Clark,justin92@example.org,905.989.8382,"1241 Rollins Burgs
+West Justin, WY 31208",1956-11-12,2022-09-05 22:15:32
+CU2852,Joseph,Lynch,christina27@example.com,(712)946-8109x6238,"Unit 6648 Box 0803
+DPO AA 29372",1972-12-22,2024-02-14 07:07:06
+CU9758,Jennifer,Clark,cortezcarlos@example.com,(333)713-6615,"8438 Denise Bridge
+Lake Jamiemouth, NH 07065",1983-01-17,2022-06-09 06:52:18
+CU2196,Debbie,Perry,rgentry@example.com,+1-551-933-5384x497,"324 Timothy Grove
+Smithside, FM 70476",1970-07-07,2024-02-29 11:20:26
+CU4139,Julie,Rice,joseph25@example.org,847-217-6318x5917,"273 Gallagher Island Apt. 600
+Jamieton, CT 79299",1944-11-13,2024-06-10 03:01:16
+CU2705,Andrea,Smith,amycarter@example.net,978-979-4964,"70617 Joshua Centers Suite 036
+East Laura, AK 76468",2003-02-06,2024-04-06 14:35:48
+CU7601,Robert,Beltran,xhester@example.org,2818242375,"7867 Teresa Knolls
+East Dawn, OR 33353",2004-09-13,2022-12-28 09:47:16
+CU2286,Maria,Christensen,qclark@example.com,+1-409-958-3717,"9114 Schultz Row Suite 736
+Nicoleton, NV 07696",1988-04-20,2023-07-08 16:06:32
+CU1058,Anthony,Perez,jeffreyoliver@example.org,443-858-5344x99053,"USCGC Vaughn
+FPO AA 01118",1969-12-28,2022-12-14 19:46:58
+CU1704,Amy,Diaz,craigboyd@example.org,(295)790-8260x178,"5215 Deleon Shoals Apt. 835
+Davisside, PA 66691",1972-11-29,2023-06-26 19:16:11
+CU2847,Courtney,Copeland,kimscott@example.net,720.626.5168,"4437 Becker Ridges
+West Collinton, AS 00656",2003-11-01,2023-12-07 01:53:27
+CU2695,Valerie,Cruz,gaygerald@example.net,853.462.2275x08343,"7908 Ali Overpass
+Cassandrashire, PA 55647",1961-04-05,2022-06-09 05:40:44
+CU4687,Steven,Wade,jody73@example.org,+1-895-446-4443x2498,"926 Conley Street Apt. 615
+Cooperland, TX 65100",1954-01-07,2024-06-17 13:23:06
+CU2727,Dawn,Smith,cisneroskathleen@example.com,4613116773,"142 Cohen Divide Suite 797
+Lake Michael, ID 45893",1989-10-01,2024-08-30 18:03:06
+CU2859,Gary,Adkins,evansricky@example.org,455.230.5853x4600,"Unit 4774 Box 5171
+DPO AE 28301",1948-07-01,2022-11-27 10:44:18
+CU8795,Andrea,Hutchinson,lloydandrea@example.com,(616)638-3263x947,"0409 Michelle Spurs
+Shieldsstad, OK 47543",1978-07-31,2023-12-19 22:09:36
+CU7577,Courtney,Harding,derricksmith@example.com,5977516855,"Unit 3283 Box 9930
+DPO AE 74907",1970-09-18,2023-12-26 00:18:44
+CU1384,Mathew,Hodges,shannon36@example.net,826-801-5155,"80780 Simpson Port
+Smithton, MN 56287",1954-05-02,2023-04-15 21:51:22
+CU3246,Robert,Brown,ffischer@example.org,001-710-393-1369x43492,"836 Medina Keys
+Coleborough, WY 87513",1964-11-14,2023-03-26 16:09:22
+CU7988,Randall,Bell,charlescarrillo@example.com,324-988-5178,"88999 Lisa Port Apt. 130
+Josephfurt, GU 90555",1948-07-09,2023-10-11 01:48:10
+CU6989,Christian,Bray,brandonwhite@example.org,878.518.7925x74033,"3898 Lee Coves Suite 167
+Alexisshire, ND 51812",1965-11-13,2022-09-04 06:12:57

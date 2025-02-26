@@ -1,0 +1,11 @@
+mfg_id,name,brand_id,country_of_origin,contact_email,contact_phone,address,website,year_established
+MA8971,TechArt,PT1374,Germany,info@techart.de,+49 7152 93390,"TechArt Automobildesign GmbH, Ditzingen, Germany",https://www.techart.de,1987
+MA7904,Mansory,PT1525,Germany,info@mansory.com,+49 9634 9229 00,"MANSORY Design & Holding GmbH, Brand, Germany",https://www.mansory.com,1989
+MA1366,Novitec,PT1525,Germany,info@novitecgroup.com,+49 8271 921 980,"NOVITEC GmbH, Stetten, Germany",https://www.novitecgroup.com,1989
+MA8149,Pininfarina,PT5128,Italy,info@pininfarina.it,+39 011 943 8111,"Corso Stati Uniti, 106, 10078 Venaria Reale, Italy",https://www.pininfarina.it,1930
+MA3112,Scuderia Cameron Glickenhaus (SCG),PT5755,USA,info@glickenhausracing.com,Unknown,"Sleepy Hollow, New York, USA",https://www.scgcars.com,2004
+MA1052,Carlsson,PT4111,Germany,info@carlsson.de,+49 6871 92020,"Carlsson Autotechnik GmbH, Merzig, Germany",https://www.carlsson.de,1989
+MA4672,Lingenfelter Performance Engineering,PT6042,USA,info@lingenfelter.com,+1 260-724-2552,"Lingenfelter Performance Engineering, Decatur, IN, USA",https://www.lingenfelter.com,1973
+MA6033,Singer Vehicle Design,PT9570,USA,info@singervehicledesign.com,+1 818-528-7007,"Los Angeles, California, USA",https://www.singervehicledesign.com,2009
+MA2249,Gordon Murray Automotive,PT2373,UK,info@gordonmurraydesign.com,+44 1483 688222,"Shalford, Surrey, UK",https://www.gordonmurrayautomotive.com,2017
+MA3460,Hennessey Performance,PT4111,USA,info@hennesseyperformance.com,+1 979-885-1300,"9281 SW I-10 Frontage Rd, Sealy, TX 77474, USA",https://www.hennesseyperformance.com,1991

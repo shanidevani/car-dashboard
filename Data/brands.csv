@@ -1,0 +1,11 @@
+brand_id,name,country_of_origin,established_year,contact_email,contact_phone,address,website
+PT4111,Mahindra,India,1945,customercare@mahindra.com,+91-22-2490-1441,"Mumbai, India",https://www.mahindra.com
+PT5131,Lexus,Japan,1989,support@lexus.com,+81-3-3817-7111,"Nagoya, Japan",https://www.lexus.com
+PT5755,Suzuki,Japan,1909,support@suzuki.com,+81-53-440-2061,"Hamamatsu, Japan",https://www.globalsuzuki.com
+PT9570,Peugeot,France,1810,support@peugeot.com,+33-9-7010-9900,"Poissy, France",https://www.peugeot.com
+PT6042,Jeep,USA,1941,customer@jeep.com,+1-877-426-5337,"Toledo, Ohio, USA",https://www.jeep.com
+PT2373,McLaren,UK,1963,contact@mclaren.com,+44-1483-261500,"Woking, UK",https://www.mclaren.com
+PT5128,Mitsubishi,Japan,1870,customer@mitsubishi.com,+81-3-6852-3111,"Tokyo, Japan",https://www.mitsubishi-motors.com
+PT1374,Chevrolet,USA,1911,support@chevrolet.com,+1-800-222-1020,"Detroit, Michigan, USA",https://www.chevrolet.com
+PT1525,Alfa Romeo,Italy,1910,info@alfaromeo.com,+39-011-003-1111,"Turin, Italy",https://www.alfaromeo.com
+PT5029,Cadillac,USA,1902,support@cadillac.com,+1-800-458-8006,"Detroit, Michigan, USA",https://www.cadillac.com

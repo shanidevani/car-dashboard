@@ -1,0 +1,186 @@
+part_id,name,price,supplier_id,car_model_id,category,description
+PA2653,Transmission,150000,IN1937,CM2340,Engine & Transmission,"Part: Transmission
+Category: Engine & Transmission
+Category Description: Essential components responsible for powering and moving the vehicle.
+Part Description: Transfers engine power to the wheels, enabling movement."
+PA6005,Seats,30000,IN6129,CM2157,Interior & Comfort,"Part: Seats
+Category: Interior & Comfort
+Category Description: Components related to passenger comfort and vehicle control.
+Part Description: Provide comfort and support for passengers."
+PA1150,Brakes,10000,IN8606,CM2157,Braking System,"Part: Brakes
+Category: Braking System
+Category Description: Components ensuring the vehicle slows down or stops safely.
+Part Description: Allow the driver to slow down or stop the vehicle safely."
+PA3731,Clutch,22000,IN5367,CM6247,Engine & Transmission,"Part: Clutch
+Category: Engine & Transmission
+Category Description: Essential components responsible for powering and moving the vehicle.
+Part Description: Engages and disengages power transmission in manual vehicles."
+PA5830,Radiator,15000,IN1937,CM2340,Cooling & Exhaust,"Part: Radiator
+Category: Cooling & Exhaust
+Category Description: Systems that regulate engine temperature and expel combustion gases.
+Part Description: Dissipates heat from the engine to prevent overheating."
+PA7874,Steering Wheel,7000,IN6857,CM6247,Suspension & Steering,"Part: Steering Wheel
+Category: Suspension & Steering
+Category Description: Components that provide stability, control, and comfort while driving.
+Part Description: Controls the direction of the vehicle."
+PA6645,Steering Wheel,7000,IN2528,CM1897,Suspension & Steering,"Part: Steering Wheel
+Category: Suspension & Steering
+Category Description: Components that provide stability, control, and comfort while driving.
+Part Description: Controls the direction of the vehicle."
+PA1130,Fuel Pump,9000,IN1867,CM4665,Engine & Transmission,"Part: Fuel Pump
+Category: Engine & Transmission
+Category Description: Essential components responsible for powering and moving the vehicle.
+Part Description: Delivers fuel from the tank to the engine."
+PA5462,Clutch,22000,IN5367,CM6247,Engine & Transmission,"Part: Clutch
+Category: Engine & Transmission
+Category Description: Essential components responsible for powering and moving the vehicle.
+Part Description: Engages and disengages power transmission in manual vehicles."
+PA2692,Oil Filter,1500,IN5367,CM4665,Filters & Fluids,"Part: Oil Filter
+Category: Filters & Fluids
+Category Description: Filters and essential fluids required for vehicle operation.
+Part Description: Removes contaminants from engine oil, improving efficiency."
+PA1094,Fuel Tank,25000,IN1937,CM1897,Body & Exterior,"Part: Fuel Tank
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Stores fuel required for engine operation."
+PA6706,Battery,8000,IN2118,CM4665,Electrical System,"Part: Battery
+Category: Electrical System
+Category Description: Electrical components responsible for powering various vehicle functions.
+Part Description: Provides electrical power to start the car and run accessories."
+PA2992,Engine,250000,IN2528,CM2340,Engine & Transmission,"Part: Engine
+Category: Engine & Transmission
+Category Description: Essential components responsible for powering and moving the vehicle.
+Part Description: The heart of the vehicle, converting fuel into mechanical power."
+PA2886,Tail Lights,4000,IN1937,CM2157,Electrical System,"Part: Tail Lights
+Category: Electrical System
+Category Description: Electrical components responsible for powering various vehicle functions.
+Part Description: Ensure visibility of the vehicle to other drivers at night."
+PA1825,Radiator,15000,IN2528,CM6292,Cooling & Exhaust,"Part: Radiator
+Category: Cooling & Exhaust
+Category Description: Systems that regulate engine temperature and expel combustion gases.
+Part Description: Dissipates heat from the engine to prevent overheating."
+PA5784,Side Mirrors,4000,IN8606,CM8786,Body & Exterior,"Part: Side Mirrors
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Provide visibility of the surrounding traffic."
+PA3320,Door Handles,2000,IN2118,CM6247,Body & Exterior,"Part: Door Handles
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Allow access to the vehicle interior."
+PA2558,Fuel Tank,25000,IN5367,CM6292,Body & Exterior,"Part: Fuel Tank
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Stores fuel required for engine operation."
+PA1613,Air Filter,2000,IN2528,CM6247,Filters & Fluids,"Part: Air Filter
+Category: Filters & Fluids
+Category Description: Filters and essential fluids required for vehicle operation.
+Part Description: Prevents dirt and debris from entering the engine."
+PA5762,Door Handles,2000,IN6857,CM1897,Body & Exterior,"Part: Door Handles
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Allow access to the vehicle interior."
+PA7695,Horn,1500,IN2118,CM8329,Electrical System,"Part: Horn
+Category: Electrical System
+Category Description: Electrical components responsible for powering various vehicle functions.
+Part Description: Used for alerting other drivers and pedestrians."
+PA2223,Spark Plugs,2500,IN6857,CM4519,Unknown Category,Part not found in the database.
+PA7015,Side Mirrors,4000,IN5229,CM8786,Body & Exterior,"Part: Side Mirrors
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Provide visibility of the surrounding traffic."
+PA3141,Side Mirrors,4000,IN2528,CM1897,Body & Exterior,"Part: Side Mirrors
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Provide visibility of the surrounding traffic."
+PA1796,Spark Plugs,2500,IN8606,CM4519,Unknown Category,Part not found in the database.
+PA6758,Tail Lights,4000,IN1937,CM4665,Electrical System,"Part: Tail Lights
+Category: Electrical System
+Category Description: Electrical components responsible for powering various vehicle functions.
+Part Description: Ensure visibility of the vehicle to other drivers at night."
+PA5482,Catalytic Converter,25000,IN1867,CM1920,Cooling & Exhaust,"Part: Catalytic Converter
+Category: Cooling & Exhaust
+Category Description: Systems that regulate engine temperature and expel combustion gases.
+Part Description: Reduces toxic emissions from the exhaust."
+PA8372,Exhaust System,18000,IN1937,CM4519,Cooling & Exhaust,"Part: Exhaust System
+Category: Cooling & Exhaust
+Category Description: Systems that regulate engine temperature and expel combustion gases.
+Part Description: Removes harmful gases produced by the engine."
+PA1492,Air Filter,2000,IN8606,CM8329,Filters & Fluids,"Part: Air Filter
+Category: Filters & Fluids
+Category Description: Filters and essential fluids required for vehicle operation.
+Part Description: Prevents dirt and debris from entering the engine."
+PA2865,Spark Plugs,2500,IN1867,CM8329,Unknown Category,Part not found in the database.
+PA6947,Dashboard,18000,IN1867,CM4665,Interior & Comfort,"Part: Dashboard
+Category: Interior & Comfort
+Category Description: Components related to passenger comfort and vehicle control.
+Part Description: Displays essential vehicle information and controls."
+PA1957,Exhaust System,18000,IN6129,CM6292,Cooling & Exhaust,"Part: Exhaust System
+Category: Cooling & Exhaust
+Category Description: Systems that regulate engine temperature and expel combustion gases.
+Part Description: Removes harmful gases produced by the engine."
+PA3747,Suspension,30000,IN1937,CM2340,Suspension & Steering,"Part: Suspension
+Category: Suspension & Steering
+Category Description: Components that provide stability, control, and comfort while driving.
+Part Description: Absorbs shocks and keeps the ride smooth."
+PA7053,Door Handles,2000,IN6857,CM8329,Body & Exterior,"Part: Door Handles
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Allow access to the vehicle interior."
+PA6493,Tail Lights,4000,IN2118,CM2340,Electrical System,"Part: Tail Lights
+Category: Electrical System
+Category Description: Electrical components responsible for powering various vehicle functions.
+Part Description: Ensure visibility of the vehicle to other drivers at night."
+PA9171,Brakes,10000,IN2540,CM1897,Braking System,"Part: Brakes
+Category: Braking System
+Category Description: Components ensuring the vehicle slows down or stops safely.
+Part Description: Allow the driver to slow down or stop the vehicle safely."
+PA7961,Seats,30000,IN2118,CM1897,Interior & Comfort,"Part: Seats
+Category: Interior & Comfort
+Category Description: Components related to passenger comfort and vehicle control.
+Part Description: Provide comfort and support for passengers."
+PA4431,Engine,250000,IN6857,CM8786,Engine & Transmission,"Part: Engine
+Category: Engine & Transmission
+Category Description: Essential components responsible for powering and moving the vehicle.
+Part Description: The heart of the vehicle, converting fuel into mechanical power."
+PA5379,Glove Box,5000,IN1867,CM1920,Interior & Comfort,"Part: Glove Box
+Category: Interior & Comfort
+Category Description: Components related to passenger comfort and vehicle control.
+Part Description: Storage compartment for small items."
+PA1210,Fuel Pump,9000,IN5229,CM4665,Engine & Transmission,"Part: Fuel Pump
+Category: Engine & Transmission
+Category Description: Essential components responsible for powering and moving the vehicle.
+Part Description: Delivers fuel from the tank to the engine."
+PA1336,Spark Plugs,2500,IN2540,CM1897,Unknown Category,Part not found in the database.
+PA6147,Transmission,150000,IN2528,CM2340,Engine & Transmission,"Part: Transmission
+Category: Engine & Transmission
+Category Description: Essential components responsible for powering and moving the vehicle.
+Part Description: Transfers engine power to the wheels, enabling movement."
+PA9296,Steering Wheel,7000,IN2118,CM6292,Suspension & Steering,"Part: Steering Wheel
+Category: Suspension & Steering
+Category Description: Components that provide stability, control, and comfort while driving.
+Part Description: Controls the direction of the vehicle."
+PA2155,Headlights,5000,IN6857,CM2157,Electrical System,"Part: Headlights
+Category: Electrical System
+Category Description: Electrical components responsible for powering various vehicle functions.
+Part Description: Illuminate the road ahead for nighttime and low-visibility driving."
+PA2299,Spark Plugs,2500,IN8606,CM8329,Unknown Category,Part not found in the database.
+PA6826,Exhaust System,18000,IN2540,CM1920,Cooling & Exhaust,"Part: Exhaust System
+Category: Cooling & Exhaust
+Category Description: Systems that regulate engine temperature and expel combustion gases.
+Part Description: Removes harmful gases produced by the engine."
+PA7405,Axles,20000,IN6857,CM1897,Suspension & Steering,"Part: Axles
+Category: Suspension & Steering
+Category Description: Components that provide stability, control, and comfort while driving.
+Part Description: Transfers power from the engine to the wheels."
+PA3654,Headlights,5000,IN2528,CM1897,Electrical System,"Part: Headlights
+Category: Electrical System
+Category Description: Electrical components responsible for powering various vehicle functions.
+Part Description: Illuminate the road ahead for nighttime and low-visibility driving."
+PA2946,Door Handles,2000,IN1867,CM2157,Body & Exterior,"Part: Door Handles
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Allow access to the vehicle interior."
+PA1788,Wiper Blades,1200,IN1867,CM4665,Body & Exterior,"Part: Wiper Blades
+Category: Body & Exterior
+Category Description: Exterior parts that contribute to vehicle safety and aesthetics.
+Part Description: Clear rain and debris from the windshield."
