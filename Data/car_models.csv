@@ -1,11 +1,231 @@
-car_model_id,model_name,brand_id,price,year_of_manufacture,category,engine_type
-CM8786,Mahindra XUV700,PT2373,1403000,2024,SUV,Diesel/Petrol
-CM4519,Kia Carens,PT9570,1045000,2024,Minivan/MPV,Petrol/Diesel
-CM1920,Toyota Innova Crysta,PT5755,1999000,2024,Minivan/MPV,Petrol/Diesel
-CM1897,Toyota Hilux,PT5128,3040000,2024,Pickup Truck,Diesel
-CM6292,Hyundai i20,PT6042,700000,2024,Hatchback,Petrol/Diesel
-CM2340,Toyota Hilux,PT5029,3040000,2024,Pickup Truck,Diesel
-CM6247,Maruti Suzuki Ciaz,PT4111,940000,2024,Sedan,Petrol/Diesel
-CM8329,Mahindra Bolero Pik-Up,PT5755,885000,2024,Pickup Truck,Diesel
-CM2157,Renault Kwid,PT5029,469000,2024,Hatchback,Petrol/Diesel
-CM4665,Hyundai Creta,PT5755,1099000,2024,SUV,Diesel/Petrol
+car_model_id,brand_id,Company,Model,Model Year,Price,Category,Engine Type
+CM9587,BA6640,Toyota,Corolla,2023,20000,Sedan,Petrol
+CM4459,BA6640,Toyota,Camry,2022,30000,Sedan,Hybrid
+CM4223,BA6640,Toyota,RAV4,2023,35000,SUV,Hybrid
+CM2911,BA6640,Toyota,Highlander,2022,45000,SUV,Petrol
+CM9227,BA6640,Toyota,Land Cruiser,2022,85000,SUV,Diesel
+CM6041,BA6223,Honda,Civic,2023,22000,Sedan,Petrol
+CM4140,BA6223,Honda,Accord,2022,28000,Sedan,Hybrid
+CM4600,BA6223,Honda,CR-V,2023,35000,SUV,Petrol
+CM3393,BA6223,Honda,Pilot,2023,45000,SUV,Hybrid
+CM6343,BA6223,Honda,Odyssey,2022,40000,Minivan,Petrol
+CM3417,BA8885,Hyundai,Elantra,2023,20000,Sedan,Petrol
+CM6060,BA8885,Hyundai,Sonata,2022,24000,Sedan,Hybrid
+CM4224,BA8885,Hyundai,Tucson,2023,35000,SUV,Diesel
+CM7654,BA8885,Hyundai,Palisade,2022,45000,SUV,Petrol
+CM1055,BA8885,Hyundai,Santa Fe,2022,38000,SUV,Hybrid
+CM4761,BA7292,Ford,Focus,2023,21000,Sedan,Petrol
+CM5276,BA7292,Ford,Fusion,2022,25000,Sedan,Hybrid
+CM6697,BA7292,Ford,Escape,2023,32000,SUV,Petrol
+CM9219,BA7292,Ford,Explorer,2023,45000,SUV,Hybrid
+CM3124,BA7292,Ford,F-150,2022,55000,Truck,Diesel
+CM1525,BA6302,Chevrolet,Cruze,2023,18000,Sedan,Petrol
+CM8702,BA6302,Chevrolet,Malibu,2022,24000,Sedan,Hybrid
+CM3917,BA6302,Chevrolet,Traverse,2023,38000,SUV,Petrol
+CM9579,BA6302,Chevrolet,Tahoe,2023,60000,SUV,Diesel
+CM6566,BA6302,Chevrolet,Silverado,2022,50000,Truck,Diesel
+CM4671,BA4534,Nissan,Altima,2023,25000,Sedan,Petrol
+CM6311,BA4534,Nissan,Maxima,2022,35000,Sedan,Hybrid
+CM9088,BA4534,Nissan,Murano,2023,45000,SUV,Petrol
+CM3141,BA4534,Nissan,Rogue,2023,30000,SUV,Hybrid
+CM5938,BA4534,Nissan,Titan,2022,55000,Truck,Diesel
+CM4704,BA4452,Volkswagen,Golf,2023,25000,Hatchback,Petrol
+CM2962,BA4452,Volkswagen,Passat,2022,30000,Sedan,Diesel
+CM3761,BA4452,Volkswagen,Tiguan,2023,37000,SUV,Hybrid
+CM2258,BA4452,Volkswagen,Atlas,2022,45000,SUV,Petrol
+CM5586,BA4452,Volkswagen,Jetta,2023,22000,Sedan,Petrol
+CM7347,BA9760,BMW,X5,2023,60000,SUV,Diesel
+CM4800,BA9760,BMW,3 Series,2022,45000,Sedan,Petrol
+CM5016,BA9760,BMW,M3,2023,70000,Sedan,Petrol
+CM5105,BA9760,BMW,Z4,2023,55000,Convertible,Hybrid
+CM4237,BA9760,BMW,i4,2023,65000,Sedan,Electric
+CM2410,BA8305,Mercedes-Benz,C-Class,2023,55000,Sedan,Petrol
+CM2905,BA8305,Mercedes-Benz,E-Class,2022,70000,Sedan,Diesel
+CM9800,BA8305,Mercedes-Benz,GLC,2023,60000,SUV,Hybrid
+CM3201,BA8305,Mercedes-Benz,S-Class,2023,100000,Sedan,Petrol
+CM9186,BA8305,Mercedes-Benz,GLE,2022,75000,SUV,Diesel
+CM3996,BA6262,Audi,A4,2023,45000,Sedan,Petrol
+CM2540,BA6262,Audi,Q5,2022,50000,SUV,Diesel
+CM4469,BA6262,Audi,A6,2023,60000,Sedan,Hybrid
+CM8648,BA6262,Audi,Q7,2023,65000,SUV,Diesel
+CM5107,BA6262,Audi,A8,2022,80000,Sedan,Petrol
+CM5474,BA1959,Porsche,911,2023,100000,Sports,Petrol
+CM9074,BA1959,Porsche,Cayenne,2023,80000,SUV,Hybrid
+CM4090,BA1959,Porsche,Macan,2023,60000,SUV,Diesel
+CM9384,BA1959,Porsche,Taycan,2023,90000,Sports,Electric
+CM1830,BA1959,Porsche,Panamera,2023,110000,Sedan,Hybrid
+CM9256,BA3664,Ferrari,Roma,2023,220000,Sports,Petrol
+CM7997,BA3664,Ferrari,488 GTB,2022,250000,Sports,Petrol
+CM1614,BA3664,Ferrari,F8 Tributo,2023,300000,Sports,Petrol
+CM3352,BA3664,Ferrari,Portofino,2023,220000,Convertible,Petrol
+CM7244,BA3664,Ferrari,SF90 Stradale,2023,500000,Sports,Hybrid
+CM9930,BA4591,Lamborghini,Huracán,2023,250000,Sports,Petrol
+CM1310,BA4591,Lamborghini,Aventador,2023,350000,Sports,Petrol
+CM1909,BA4591,Lamborghini,Urus,2023,200000,SUV,Petrol
+CM6573,BA4591,Lamborghini,Sián,2023,400000,Sports,Hybrid
+CM9697,BA4591,Lamborghini,Countach LPI 800-4,2023,500000,Sports,Hybrid
+CM5499,BA2766,Rolls-Royce,Phantom,2023,450000,Luxury,Petrol
+CM7214,BA2766,Rolls-Royce,Ghost,2023,350000,Luxury,Petrol
+CM8540,BA2766,Rolls-Royce,Dawn,2023,400000,Convertible,Petrol
+CM1196,BA2766,Rolls-Royce,Wraith,2023,380000,Coupe,Petrol
+CM8095,BA2766,Rolls-Royce,Cullinan,2023,500000,SUV,Petrol
+CM9881,BA3478,Bentley,Continental GT,2023,230000,Coupe,Petrol
+CM1015,BA3478,Bentley,Flying Spur,2023,250000,Sedan,Petrol
+CM5214,BA3478,Bentley,Bentayga,2023,300000,SUV,Hybrid
+CM3952,BA3478,Bentley,Mulsanne,2022,350000,Luxury Sedan,Petrol
+CM4452,BA3478,Bentley,Continental GT Speed,2023,280000,Coupe,Petrol
+CM5935,BA9589,Maserati,Ghibli,2023,75000,Sedan,Petrol
+CM3333,BA9589,Maserati,Levante,2023,90000,SUV,Diesel
+CM9689,BA9589,Maserati,Quattroporte,2023,120000,Luxury Sedan,Petrol
+CM9289,BA9589,Maserati,GranTurismo,2023,150000,Coupe,Petrol
+CM8799,BA9589,Maserati,MC20,2023,210000,Sports,Petrol
+CM8929,BA1548,Jaguar,XF,2023,55000,Sedan,Diesel
+CM1503,BA1548,Jaguar,F-Type,2023,65000,Sports,Petrol
+CM9191,BA1548,Jaguar,E-Pace,2023,40000,SUV,Diesel
+CM4599,BA1548,Jaguar,I-Pace,2023,70000,SUV,Electric
+CM7544,BA1548,Jaguar,F-Pace,2023,75000,SUV,Petrol
+CM5869,BA2482,Land Rover,Range Rover,2023,90000,SUV,Diesel
+CM8840,BA2482,Land Rover,Discovery,2023,70000,SUV,Hybrid
+CM4059,BA2482,Land Rover,Defender,2023,60000,SUV,Petrol
+CM2033,BA2482,Land Rover,Range Rover Velar,2023,85000,SUV,Diesel
+CM8828,BA2482,Land Rover,Range Rover Sport,2023,75000,SUV,Hybrid
+CM8182,BA6071,Lexus,RX,2023,55000,SUV,Hybrid
+CM8740,BA6071,Lexus,ES,2023,45000,Sedan,Petrol
+CM5041,BA6071,Lexus,NX,2023,60000,SUV,Petrol
+CM6419,BA6071,Lexus,LS,2023,85000,Luxury Sedan,Petrol
+CM5516,BA6071,Lexus,LX,2023,95000,SUV,Diesel
+CM4405,BA4029,Tesla,Model S,2023,90000,Sedan,Electric
+CM8277,BA4029,Tesla,Model 3,2023,40000,Sedan,Electric
+CM5064,BA4029,Tesla,Model X,2023,120000,SUV,Electric
+CM3589,BA4029,Tesla,Model Y,2023,70000,SUV,Electric
+CM8325,BA4029,Tesla,Cybertruck,2023,50000,Truck,Electric
+CM9351,BA8866,Tata Motors,Nexon,2023,20000,SUV,Petrol
+CM8748,BA8866,Tata Motors,Harrier,2023,25000,SUV,Diesel
+CM2416,BA8866,Tata Motors,Tigor,2023,15000,Sedan,Petrol
+CM8602,BA8866,Tata Motors,Altroz,2023,18000,Hatchback,Diesel
+CM3845,BA8866,Tata Motors,Safari,2023,35000,SUV,Diesel
+CM5739,BA7837,Mahindra,Thar,2023,25000,SUV,Diesel
+CM3951,BA7837,Mahindra,XUV700,2023,35000,SUV,Petrol
+CM4814,BA7837,Mahindra,Scorpio,2023,30000,SUV,Diesel
+CM9187,BA7837,Mahindra,Bolero,2023,18000,SUV,Diesel
+CM5806,BA7837,Mahindra,Marazzo,2023,25000,MPV,Petrol
+CM9000,BA2715,Renault,Clio,2023,20000,Hatchback,Petrol
+CM3615,BA2715,Renault,Captur,2023,25000,SUV,Diesel
+CM3651,BA2715,Renault,Megane,2023,22000,Sedan,Petrol
+CM5180,BA2715,Renault,Kadjar,2023,30000,SUV,Diesel
+CM6122,BA2715,Renault,Talisman,2023,35000,Sedan,Petrol
+CM1305,BA2767,Peugeot,208,2023,20000,Hatchback,Diesel
+CM9440,BA2767,Peugeot,3008,2023,35000,SUV,Hybrid
+CM6487,BA2767,Peugeot,508,2023,35000,Sedan,Petrol
+CM6174,BA2767,Peugeot,Rifter,2023,25000,MPV,Diesel
+CM7447,BA2767,Peugeot,Partner,2023,27000,Van,Petrol
+CM4790,BA9295,Fiat,500,2023,15000,Hatchback,Petrol
+CM3966,BA9295,Fiat,Panda,2023,16000,Hatchback,Diesel
+CM5492,BA9295,Fiat,Tipo,2023,20000,Sedan,Petrol
+CM7411,BA9295,Fiat,Doblo,2023,22000,Van,Diesel
+CM8805,BA9295,Fiat,500X,2023,27000,SUV,Hybrid
+CM1238,BA3680,Suzuki,Swift,2023,18000,Hatchback,Petrol
+CM6491,BA3680,Suzuki,Vitara,2023,25000,SUV,Diesel
+CM7462,BA3680,Suzuki,Baleno,2023,20000,Hatchback,Petrol
+CM7130,BA3680,Suzuki,S-Cross,2023,30000,SUV,Diesel
+CM3591,BA3680,Suzuki,Jimny,2023,22000,SUV,Petrol
+CM7255,BA6490,Subaru,Outback,2023,35000,SUV,Petrol
+CM8917,BA6490,Subaru,Impreza,2023,22000,Sedan,Diesel
+CM5102,BA6490,Subaru,Forester,2023,30000,SUV,Petrol
+CM6629,BA6490,Subaru,Legacy,2023,28000,Sedan,Diesel
+CM6547,BA6490,Subaru,BRZ,2023,35000,Sports,Petrol
+CM9543,BA4978,Mitsubishi,Outlander,2023,35000,SUV,Hybrid
+CM8958,BA4978,Mitsubishi,L200,2023,30000,Pickup,Diesel
+CM4177,BA4978,Mitsubishi,ASX,2023,25000,SUV,Petrol
+CM2668,BA4978,Mitsubishi,Pajero,2023,45000,SUV,Diesel
+CM1956,BA4978,Mitsubishi,Mirage,2023,15000,Hatchback,Petrol
+CM4098,BA6614,Dodge,Charger,2023,40000,Sedan,Petrol
+CM4119,BA6614,Dodge,Durango,2023,50000,SUV,Petrol
+CM3877,BA6614,Dodge,Challenger,2023,45000,Coupe,Petrol
+CM4801,BA6614,Dodge,Ram 1500,2023,35000,Truck,Diesel
+CM6250,BA6614,Dodge,Journey,2023,30000,SUV,Petrol
+CM2703,BA6347,Jeep,Wrangler,2023,40000,SUV,Diesel
+CM1450,BA6347,Jeep,Cherokee,2023,35000,SUV,Petrol
+CM2343,BA6347,Jeep,Grand Cherokee,2023,60000,SUV,Diesel
+CM2317,BA6347,Jeep,Renegade,2023,30000,SUV,Petrol
+CM1451,BA6347,Jeep,Compass,2023,32000,SUV,Hybrid
+CM5414,BA4188,Bugatti,Chiron,2023,3000000,Sports,Petrol
+CM9129,BA4188,Bugatti,Divo,2023,5000000,Sports,Petrol
+CM7623,BA4188,Bugatti,Veyron,2023,2000000,Sports,Petrol
+CM6316,BA4188,Bugatti,Centodieci,2023,9000000,Sports,Petrol
+CM8647,BA4188,Bugatti,La Voiture Noire,2023,18000000,Luxury,Petrol
+CM3619,BA2338,Aston Martin,DB11,2023,205000,Sports,Petrol
+CM7167,BA2338,Aston Martin,Vantage,2023,150000,Sports,Petrol
+CM7073,BA2338,Aston Martin,DBX,2023,250000,SUV,Petrol
+CM2578,BA2338,Aston Martin,Rapide,2023,250000,Sedan,Petrol
+CM7917,BA2338,Aston Martin,Valhalla,2023,400000,Supercar,Hybrid
+CM9424,BA6671,McLaren,720S,2023,300000,Sports,Petrol
+CM4380,BA6671,McLaren,765LT,2023,350000,Sports,Petrol
+CM6866,BA6671,McLaren,Artura,2023,250000,Hybrid,Hybrid
+CM5035,BA6671,McLaren,P1,2023,1200000,Supercar,Hybrid
+CM2132,BA6671,McLaren,Sabre,2023,350000,Supercar,Petrol
+CM6581,BA4441,Cadillac,Escalade,2023,75000,SUV,Diesel
+CM9018,BA4441,Cadillac,CT5,2023,45000,Sedan,Petrol
+CM9130,BA4441,Cadillac,XT5,2023,50000,SUV,Hybrid
+CM2538,BA4441,Cadillac,XT6,2023,60000,SUV,Diesel
+CM9014,BA4441,Cadillac,CTS-V,2023,85000,Sports Sedan,Petrol
+CM7083,BA4216,Chrysler,Pacifica,2023,35000,Minivan,Hybrid
+CM7080,BA4216,Chrysler,Voyager,2023,30000,Minivan,Petrol
+CM5751,BA4216,Chrysler,300,2023,40000,Sedan,Petrol
+CM8547,BA4216,Chrysler,Aspen,2023,50000,SUV,Petrol
+CM3212,BA4216,Chrysler,Charger,2023,45000,Sedan,Petrol
+CM4576,BA6992,Acura,MDX,2023,50000,SUV,Hybrid
+CM6619,BA6992,Acura,RDX,2023,40000,SUV,Petrol
+CM1470,BA6992,Acura,TLX,2023,45000,Sedan,Petrol
+CM7207,BA6992,Acura,ILX,2023,35000,Sedan,Petrol
+CM9541,BA6992,Acura,NSX,2023,150000,Sports,Hybrid
+CM4624,BA5847,Alfa Romeo,Giulia,2023,40000,Sedan,Petrol
+CM7747,BA5847,Alfa Romeo,Stelvio,2023,45000,SUV,Diesel
+CM7631,BA5847,Alfa Romeo,4C,2023,60000,Sports,Petrol
+CM5614,BA5847,Alfa Romeo,Giulietta,2023,30000,Hatchback,Petrol
+CM7012,BA5847,Alfa Romeo,Tonale,2023,40000,SUV,Hybrid
+CM8768,BA9354,Genesis,G70,2023,45000,Sedan,Petrol
+CM1302,BA9354,Genesis,G80,2023,55000,Sedan,Hybrid
+CM9571,BA9354,Genesis,GV70,2023,60000,SUV,Petrol
+CM5365,BA9354,Genesis,GV80,2023,70000,SUV,Hybrid
+CM2114,BA9354,Genesis,G90,2023,80000,Luxury Sedan,Petrol
+CM6668,BA5212,Infiniti,Q50,2023,45000,Sedan,Petrol
+CM5829,BA5212,Infiniti,QX60,2023,60000,SUV,Hybrid
+CM4557,BA5212,Infiniti,QX80,2023,80000,SUV,Petrol
+CM8895,BA5212,Infiniti,Q70,2023,55000,Sedan,Diesel
+CM9364,BA5212,Infiniti,QX50,2023,50000,SUV,Hybrid
+CM7135,BA2006,Lincoln,Navigator,2023,90000,SUV,Hybrid
+CM7153,BA2006,Lincoln,Aviator,2023,70000,SUV,Petrol
+CM9674,BA2006,Lincoln,Corsair,2023,50000,SUV,Hybrid
+CM2461,BA2006,Lincoln,MKZ,2023,45000,Sedan,Petrol
+CM4033,BA2006,Lincoln,MKT,2023,60000,SUV,Diesel
+CM3193,BA2164,Mazda,Mazda3,2023,25000,Sedan,Petrol
+CM2249,BA2164,Mazda,Mazda6,2023,35000,Sedan,Diesel
+CM4311,BA2164,Mazda,CX-5,2023,40000,SUV,Petrol
+CM9374,BA2164,Mazda,CX-9,2023,50000,SUV,Hybrid
+CM7329,BA2164,Mazda,MX-5 Miata,2023,30000,Sports,Petrol
+CM2637,BA2772,Mini,Cooper,2023,25000,Hatchback,Petrol
+CM6466,BA2772,Mini,Clubman,2023,30000,Hatchback,Diesel
+CM6302,BA2772,Mini,Countryman,2023,35000,SUV,Hybrid
+CM9038,BA2772,Mini,Convertible,2023,40000,Convertible,Petrol
+CM7793,BA2772,Mini,John Cooper Works,2023,45000,Sports,Petrol
+CM6583,BA1537,Opel,Astra,2023,25000,Hatchback,Diesel
+CM8026,BA1537,Opel,Grandland,2023,35000,SUV,Hybrid
+CM2945,BA1537,Opel,Insignia,2023,30000,Sedan,Petrol
+CM6607,BA1537,Opel,Corsa,2023,20000,Hatchback,Petrol
+CM3346,BA1537,Opel,Zafira,2023,28000,MPV,Diesel
+CM8542,BA1018,Saab,9-3,2023,30000,Sedan,Petrol
+CM1786,BA1018,Saab,9-5,2023,40000,Sedan,Diesel
+CM8398,BA1018,Saab,900,2023,35000,Convertible,Petrol
+CM9954,BA1018,Saab,9-7X,2023,45000,SUV,Diesel
+CM4233,BA1018,Saab,9-4X,2023,50000,SUV,Petrol
+CM1964,BA5025,Skoda,Octavia,2023,25000,Sedan,Diesel
+CM4111,BA5025,Skoda,Superb,2023,35000,Sedan,Petrol
+CM7322,BA5025,Skoda,Karoq,2023,40000,SUV,Diesel
+CM6801,BA5025,Skoda,Kodiaq,2023,45000,SUV,Hybrid
+CM6984,BA5025,Skoda,Fabia,2023,20000,Hatchback,Petrol
+CM3795,BA3225,Volvo,XC90,2023,70000,SUV,Hybrid
+CM8548,BA3225,Volvo,S60,2023,35000,Sedan,Diesel
+CM4456,BA3225,Volvo,V90,2023,45000,Estate,Hybrid
+CM4710,BA3225,Volvo,XC60,2023,50000,SUV,Petrol
+CM2855,BA3225,Volvo,S90,2023,55000,Sedan,Diesel

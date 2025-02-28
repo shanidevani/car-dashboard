@@ -1,11 +1,47 @@
 brand_id,name,country_of_origin,established_year,contact_email,contact_phone,address,website
-PT4111,Mahindra,India,1945,customercare@mahindra.com,+91-22-2490-1441,"Mumbai, India",https://www.mahindra.com
-PT5131,Lexus,Japan,1989,support@lexus.com,+81-3-3817-7111,"Nagoya, Japan",https://www.lexus.com
-PT5755,Suzuki,Japan,1909,support@suzuki.com,+81-53-440-2061,"Hamamatsu, Japan",https://www.globalsuzuki.com
-PT9570,Peugeot,France,1810,support@peugeot.com,+33-9-7010-9900,"Poissy, France",https://www.peugeot.com
-PT6042,Jeep,USA,1941,customer@jeep.com,+1-877-426-5337,"Toledo, Ohio, USA",https://www.jeep.com
-PT2373,McLaren,UK,1963,contact@mclaren.com,+44-1483-261500,"Woking, UK",https://www.mclaren.com
-PT5128,Mitsubishi,Japan,1870,customer@mitsubishi.com,+81-3-6852-3111,"Tokyo, Japan",https://www.mitsubishi-motors.com
-PT1374,Chevrolet,USA,1911,support@chevrolet.com,+1-800-222-1020,"Detroit, Michigan, USA",https://www.chevrolet.com
-PT1525,Alfa Romeo,Italy,1910,info@alfaromeo.com,+39-011-003-1111,"Turin, Italy",https://www.alfaromeo.com
-PT5029,Cadillac,USA,1902,support@cadillac.com,+1-800-458-8006,"Detroit, Michigan, USA",https://www.cadillac.com
+BA6640,Toyota,Japan,1937,contact@toyota.com,+81-565-28-2121,"Toyota City, Aichi, Japan",https://www.toyota-global.com
+BA6223,Honda,Japan,1948,info@honda.com,+81-3-3423-1111,"Minato, Tokyo, Japan",https://www.honda.com
+BA8885,Hyundai,South Korea,1967,contact@hyundai.com,+82-2-3464-1114,"Seoul, South Korea",https://www.hyundai.com
+BA7292,Ford,USA,1903,support@ford.com,+1-800-392-3673,"Dearborn, Michigan, USA",https://www.ford.com
+BA6302,Chevrolet,USA,1911,support@chevrolet.com,+1-800-222-1020,"Detroit, Michigan, USA",https://www.chevrolet.com
+BA4534,Nissan,Japan,1933,contact@nissan.com,+81-45-523-5523,"Yokohama, Japan",https://www.nissan-global.com
+BA4452,Volkswagen,Germany,1937,info@volkswagen.com,+49-5361-9-0,"Wolfsburg, Germany",https://www.volkswagen.com
+BA9760,BMW,Germany,1916,customer.service@bmw.com,+49-89-382-0,"Munich, Germany",https://www.bmw.com
+BA8305,Mercedes-Benz,Germany,1926,info@mercedes-benz.com,+49-711-17-0,"Stuttgart, Germany",https://www.mercedes-benz.com
+BA6262,Audi,Germany,1909,contact@audi.com,+49-841-89-0,"Ingolstadt, Germany",https://www.audi.com
+BA1959,Porsche,Germany,1931,info@porsche.com,+49-711-911-0,"Stuttgart, Germany",https://www.porsche.com
+BA3664,Ferrari,Italy,1939,support@ferrari.com,+39-0536-949-111,"Maranello, Italy",https://www.ferrari.com
+BA4591,Lamborghini,Italy,1963,info@lamborghini.com,+39-051-681-7611,"Sant'Agata Bolognese, Italy",https://www.lamborghini.com
+BA2766,Rolls-Royce,UK,1904,support@rolls-royce.com,+44-1243-384700,"Goodwood, UK",https://www.rolls-roycemotorcars.com
+BA3478,Bentley,UK,1919,info@bentley.com,+44-1270-653-653,"Crewe, UK",https://www.bentleymotors.com
+BA9589,Maserati,Italy,1914,customer.service@maserati.com,+39-059-591-911,"Modena, Italy",https://www.maserati.com
+BA1548,Jaguar,UK,1922,support@jaguar.com,+44-1926-641-111,"Coventry, UK",https://www.jaguar.com
+BA2482,Land Rover,UK,1948,info@landrover.com,+44-1926-641-111,"Coventry, UK",https://www.landrover.com
+BA6071,Lexus,Japan,1989,support@lexus.com,+81-3-3817-7111,"Nagoya, Japan",https://www.lexus.com
+BA4029,Tesla,USA,2003,support@tesla.com,+1-888-518-3752,"Palo Alto, California, USA",https://www.tesla.com
+BA8866,Tata Motors,India,1945,contactus@tatamotors.com,+91-22-6665-8282,"Mumbai, India",https://www.tatamotors.com
+BA7837,Mahindra,India,1945,customercare@mahindra.com,+91-22-2490-1441,"Mumbai, India",https://www.mahindra.com
+BA2715,Renault,France,1899,contact@renault.com,+33-1-7684-0404,"Boulogne-Billancourt, France",https://www.renault.com
+BA2767,Peugeot,France,1810,support@peugeot.com,+33-9-7010-9900,"Poissy, France",https://www.peugeot.com
+BA9295,Fiat,Italy,1899,info@fiat.com,+39-011-006-2111,"Turin, Italy",https://www.fiat.com
+BA3680,Suzuki,Japan,1909,support@suzuki.com,+81-53-440-2061,"Hamamatsu, Japan",https://www.globalsuzuki.com
+BA6490,Subaru,Japan,1953,info@subaru.com,+81-3-6447-8000,"Tokyo, Japan",https://www.subaru.com
+BA4978,Mitsubishi,Japan,1870,customer@mitsubishi.com,+81-3-6852-3111,"Tokyo, Japan",https://www.mitsubishi-motors.com
+BA6614,Dodge,USA,1900,support@dodge.com,+1-800-423-6343,"Auburn Hills, Michigan, USA",https://www.dodge.com
+BA6347,Jeep,USA,1941,customer@jeep.com,+1-877-426-5337,"Toledo, Ohio, USA",https://www.jeep.com
+BA4188,Bugatti,France,1909,contact@bugatti.com,+33-388-04-5737,"Molsheim, France",https://www.bugatti.com
+BA2338,Aston Martin,UK,1913,support@astonmartin.com,+44-1926-644644,"Gaydon, UK",https://www.astonmartin.com
+BA6671,McLaren,UK,1963,contact@mclaren.com,+44-1483-261500,"Woking, UK",https://www.mclaren.com
+BA4441,Cadillac,USA,1902,support@cadillac.com,+1-800-458-8006,"Detroit, Michigan, USA",https://www.cadillac.com
+BA4216,Chrysler,USA,1925,info@chrysler.com,+1-800-247-9753,"Auburn Hills, Michigan, USA",https://www.chrysler.com
+BA6992,Acura,Japan,1986,customer@acura.com,+1-800-382-2238,"Minato, Tokyo, Japan",https://www.acura.com
+BA5847,Alfa Romeo,Italy,1910,info@alfaromeo.com,+39-011-003-1111,"Turin, Italy",https://www.alfaromeo.com
+BA9354,Genesis,South Korea,2015,support@genesis.com,+82-2-3464-1114,"Seoul, South Korea",https://www.genesis.com
+BA5212,Infiniti,Japan,1989,customer@infiniti.com,+1-800-662-6200,"Yokohama, Japan",https://www.infiniti.com
+BA2006,Lincoln,USA,1917,info@lincoln.com,+1-800-521-4140,"Dearborn, Michigan, USA",https://www.lincoln.com
+BA2164,Mazda,Japan,1920,support@mazda.com,+81-82-282-1111,"Hiroshima, Japan",https://www.mazda.com
+BA2772,Mini,UK,1959,info@mini.com,+44-370-505-0505,"Oxford, UK",https://www.mini.com
+BA1537,Opel,Germany,1862,contact@opel.com,+49-6142-774-0,"Rüsselsheim, Germany",https://www.opel.com
+BA1018,Saab,Sweden,1945,support@saab.com,+46-31-63-7000,"Trollhättan, Sweden",https://www.saab.com
+BA5025,Skoda,Czech Republic,1895,info@skoda.com,+420-326-811-111,"Mladá Boleslav, Czech Republic",https://www.skoda-auto.com
+BA3225,Volvo,Sweden,1927,info@volvocars.com,+46-31-59-0000,"Gothenburg, Sweden",https://www.volvocars.com

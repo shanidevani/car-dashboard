@@ -1,21 +1,185 @@
 dealer_id,brand_id,name,contact_person,address,phone_number,email,dealer_type,rating,website
-DE2674,PT5131,Contreras Ltd,Robert Morales,"881 Gina Mountain Apt. 320
-Lake Luke, LA 44616",(801)707-8199,ramosaaron@example.com,independent,2.3,https://www.wilson-bell.com/
-DE2098,PT1374,Martin-Kim,Todd Werner,"0933 Christopher Field Apt. 380
-North Victoria, NC 56569",403.716.2023x0842,angelagarcia@example.com,independent,3.9,https://www.nunez.com/
-DE1652,PT6042,Kramer-Hull,Lisa Valenzuela,"956 Cynthia Square Apt. 524
-East Jefftown, NE 30109",960-409-4257x3204,michaelmegan@example.com,authorized,3.4,http://king.com/
-DE5740,PT5029,Williams and Sons,Cynthia Collins,"743 Elizabeth Ferry
-Port Jordan, RI 54906",(819)275-5279x1637,geraldharris@example.com,independent,3.0,http://sanchez.net/
-DE9976,PT6042,Ward-Small,Mark Thompson,"64618 Ramirez Junctions
-Jacobside, SD 83955",+1-614-977-5473x8534,qfarley@example.net,authorized,1.8,http://www.williams.com/
-DE9024,PT1525,"Kent, Caldwell and Velazquez",Jimmy Watson,"9473 Robert Ranch
-New Emmamouth, NY 21546",770.353.4476x5103,johnny50@example.net,authorized,3.9,http://brennan.biz/
-DE4334,PT2373,Barnes-Hogan,Erica Sanford,"14144 Chad Plain
-Angelaton, OR 12570",(846)969-6367,bradshawshelly@example.org,independent,3.3,http://www.vaughan.org/
-DE8030,PT4111,Cochran and Sons,Brittany Morton,"066 Crystal Squares Suite 617
-Amandabury, CO 82295",452-250-8771x87803,zknight@example.com,authorized,3.9,https://www.davis.com/
-DE3296,PT2373,Matthews-Robinson,David Lawson,"0127 Valdez Orchard Apt. 028
-Katherineville, AZ 41188",(833)444-4724,jessica47@example.com,independent,3.9,http://www.brooks.com/
-DE8161,PT6042,Hunt Ltd,Barry Craig,"26774 Anderson Circle
-Lake Danielview, ID 51336",001-796-550-5493x56018,seandavila@example.org,authorized,4.0,https://www.thomas.info/
+DE4275,BA6640,"Scott, Brown and Garcia",Lori Lopez,"26464 Palmer Station Suite 565
+East Brittneyside, NM 56422",001-569-401-7162x8253,holly79@example.net,authorized,3.5,https://hopkins.com/
+DE4780,BA6223,"Nunez, Valentine and Young",Samantha Gordon,"5039 Eric Estates Suite 727
+Traceymouth, MD 32234",(901)296-1479,lambertmike@example.net,authorized,3.9,https://www.taylor.com/
+DE3449,BA8885,"Reynolds, Franklin and Martinez",Nancy Beasley,"58212 Malone Harbors Apt. 044
+Lake Alex, CO 70474",001-488-969-1442x00767,duane76@example.org,authorized,2.0,http://mclaughlin-estrada.net/
+DE8509,BA7292,"Duke, Ortiz and Haynes",Julia Kramer,"4780 Michael Harbor Apt. 985
+Port Emilyfort, WY 90521",864.562.0074,martinezalexander@example.net,independent,4.4,https://www.wallace.org/
+DE4770,BA6302,"Irwin, Aguilar and Lopez",Catherine Pierce,"PSC 5878, Box 0397
+APO AE 31811",799-343-8609,kimdennis@example.net,authorized,3.8,http://www.brown-strong.org/
+DE1705,BA4534,"Santiago, Bennett and Shaw",Thomas Powell MD,"4419 Mccarthy Ways Apt. 682
+South Kevin, IA 66818",357.494.1065x71598,john69@example.com,authorized,1.8,http://house.com/
+DE4448,BA4452,Galvan-Miller,Rebecca Mason,"468 Oscar Run
+Williamsonburgh, MI 21195",922.487.2096,rogersdesiree@example.com,authorized,2.1,https://lewis.com/
+DE3392,BA9760,Palmer-Bridges,Roy Webster,"8140 Jessica Avenue Apt. 827
+Richardport, IL 77001",(320)937-9966x55658,kellyjordan@example.org,independent,4.9,http://www.gallagher.com/
+DE5709,BA8305,Walsh-Harrison,Kevin Morgan,"00019 Castaneda Expressway Apt. 726
+Tarabury, TN 52989",7625834355,zballard@example.org,authorized,2.7,https://graham.com/
+DE8543,BA6262,Phelps-Le,Haley Miller,"8091 Luke Hill
+Laneport, WA 54074",288-203-1925,lisa10@example.net,authorized,5.0,http://howell.biz/
+DE3718,BA1959,Miller-Nelson,Matthew Mcdonald,"15079 Ramirez Passage
+Brandonhaven, TN 96489",(896)990-9390x9111,lambdeborah@example.net,independent,4.7,http://vasquez-salinas.org/
+DE5142,BA3664,Schwartz Ltd,Judy Hensley,"5930 Thomas Groves Suite 401
+West Joshua, AZ 38767",(210)499-6333x7125,meghanriggs@example.net,independent,1.4,http://brock.com/
+DE2559,BA4591,Castro Ltd,Jason Cantu,"650 Black Place Suite 325
+Lake Danielleport, PW 45506",+1-820-487-5113x1198,mcguirebrian@example.net,authorized,1.2,http://www.russell-fisher.com/
+DE6980,BA2766,Malone PLC,Natasha Paul,"3152 Matthew Vista
+Rubenfort, PR 81642",001-510-744-7469x978,kathryn35@example.com,independent,2.5,http://www.combs.com/
+DE9466,BA3478,Huffman Ltd,Frances Ross,"928 Raymond Trail Suite 578
+East Emily, TN 61585",298.912.7527,lerobin@example.net,independent,4.3,https://lyons.org/
+DE1580,BA9589,"Henry, Stevens and Flores",Jaime Trujillo,"909 Summer Forks
+Kennethland, AR 78059",547-282-0980x9290,james60@example.net,authorized,2.7,https://www.vazquez-perez.info/
+DE8847,BA1548,Ritter-Odonnell,Amanda Wallace,"2692 Banks Coves
+North Sarahfurt, RI 17038",710.545.9206,wjackson@example.com,independent,1.9,https://mills.org/
+DE5757,BA2482,Guzman Inc,Daniel Kim,"54809 Madeline Viaduct
+Port Robert, NE 19811",9589906367,ramirezedward@example.com,authorized,2.3,https://callahan-lopez.com/
+DE2167,BA6071,Jones-Bailey,Theresa Sullivan,"978 Samantha Ridges
+Cobbfort, VA 93321",780.621.5846x89803,christopherjones@example.com,authorized,2.7,https://hoffman.net/
+DE3151,BA4029,Newman-Lyons,Kelsey Cole,"47434 Schneider Lodge
+Jacksonview, VT 74149",001-281-272-6721,dustin13@example.org,authorized,4.0,http://maynard-hatfield.com/
+DE9697,BA8866,Johnston-Martinez,Cindy Conley,"5824 Parsons Lane Apt. 780
+Lake Markfurt, MT 28337",+1-659-693-8910,kdavis@example.org,independent,3.9,http://www.griffith-williamson.com/
+DE4286,BA7837,Black-Gordon,Tiffany Watson,"44068 Zoe Hills Apt. 629
+Lake Kevinfort, AZ 07356",3094325530,christineperez@example.org,independent,2.0,http://www.james.net/
+DE9589,BA2715,Hernandez and Sons,Holly Mclaughlin,"5299 Suzanne Hills
+Jessicaside, WY 35508",001-812-536-5520x5267,danielle51@example.org,independent,4.6,http://dougherty.com/
+DE9359,BA2767,"Martinez, Lewis and Bates",Mary Figueroa,"PSC 7399, Box 6161
+APO AE 05177",793-837-9041x4820,bethbarnett@example.net,independent,3.5,http://www.haynes.net/
+DE5286,BA9295,Hogan LLC,Tyler Ramos,"53640 Lang Pass
+North Andrew, KY 19179",(301)450-3957,zhubbard@example.org,authorized,1.4,https://www.sanchez.com/
+DE7635,BA3680,Wolfe and Sons,Matthew Thomas,"Unit 4562 Box 9237
+DPO AP 09146",(245)853-9047x05153,reesedalton@example.net,independent,4.2,http://www.dunlap-ross.com/
+DE9115,BA6490,Flores LLC,Robin Wong,"1571 Anthony Terrace Apt. 396
+Paulside, IN 64204",(509)702-0743,jasontucker@example.com,authorized,4.0,http://www.diaz-mosley.com/
+DE6272,BA4978,Reynolds Group,Jason Jarvis,"151 Christopher Prairie Suite 487
+Bartlettmouth, GA 69676",873-455-4193,morrisonsharon@example.net,independent,3.0,http://duffy.com/
+DE4298,BA6614,"Chavez, Smith and Smith",Blake Jenkins,"873 Michael Club Suite 197
+Travisville, WI 87449",001-405-604-7317,andrewsdebbie@example.net,independent,4.1,https://www.burke.org/
+DE3375,BA6347,Mathis-Jones,Carol Brewer,"0372 Kristen Underpass Suite 418
+Jermaineburgh, MT 25214",997.301.5849,rebeccamorrison@example.com,authorized,1.7,https://morris.com/
+DE7916,BA4188,Hall-Thomas,Aaron Carter,"32669 Knapp Passage
+New Kennethmouth, NY 69170",(381)666-9274x47756,smithdeborah@example.org,authorized,1.3,http://wilson.com/
+DE6055,BA2338,Matthews LLC,Charles Daniels,"661 Johnson Isle Apt. 859
+North Tylerstad, PA 70231",759-405-1026x365,ujensen@example.org,independent,4.1,https://perez.net/
+DE5829,BA6671,"King, Hall and Jones",Susan Mcintyre,"376 Benjamin Way Apt. 002
+East Jason, AR 22204",225-675-2080,moorealexis@example.com,authorized,5.0,https://www.lee.com/
+DE9006,BA4441,Flores Inc,Stephen Vazquez,"7405 George Views Suite 971
+Brownstad, NY 15233",260-537-1551x36418,shawn63@example.net,authorized,2.2,http://key.com/
+DE7219,BA4216,Morris Ltd,John Brady,"6641 Rich Union
+Halefurt, MN 74279",(459)634-5879,sophiacastillo@example.org,authorized,2.3,https://white.com/
+DE5103,BA6992,"Riggs, Smith and Payne",Michelle Nelson,"8555 Galloway Port Suite 087
+New James, VA 35241",(208)767-6292,mooretina@example.org,authorized,3.2,http://cox.net/
+DE9004,BA5847,Thompson-Martinez,Jody Patterson,"56496 Billy Street Apt. 386
+South Amanda, MS 19231",001-659-597-9924,kelly89@example.org,authorized,1.3,http://williams.com/
+DE3535,BA9354,Hart-Huffman,Toni Powers,"34656 Jennifer Terrace
+Gilmoreview, MH 21616",(797)735-3218x6993,danalee@example.org,independent,1.8,https://www.james-brown.org/
+DE8075,BA5212,"Hendricks, Lamb and Munoz",Andrea Bell,"51138 Leonard Groves
+South Bryanview, AS 60551",238-406-8750x2044,patricia08@example.net,authorized,3.0,http://gibson.com/
+DE1803,BA2006,Turner Inc,Leah Buchanan,"930 Hale Wells Apt. 924
+New Jessica, PR 62488",297-470-1039x952,kthomas@example.net,authorized,2.6,http://www.ward.com/
+DE8186,BA2164,Vincent Inc,Michael Cunningham,"445 James Path
+Lake Johnland, IA 57031",001-272-234-1515,campbellvickie@example.org,authorized,3.0,http://trevino-cruz.org/
+DE7184,BA2772,Duncan LLC,Christine Frazier,"87602 Linda Drive Apt. 020
+Martinezburgh, PW 42097",+1-511-484-9437x0276,georgedavid@example.com,authorized,2.6,https://page-wood.com/
+DE3410,BA1537,Hoffman-Cole,Anthony Jackson,"748 Ashley Springs Suite 892
+Tiffanyborough, PA 71130",001-382-311-9686x955,vmathews@example.net,authorized,2.7,http://www.howard.info/
+DE4043,BA1018,"Lopez, Perry and Hughes",Raymond Jordan,"6771 Kelly River Apt. 936
+East Stephenfort, TN 21135",920-323-6505x73530,joannkelley@example.net,authorized,3.3,https://www.lee.com/
+DE2515,BA5025,"Dominguez, Henderson and Miller",Sandra Stafford,"73620 Bishop Stream
+Leslieland, TN 60158",7469023296,halvarado@example.net,authorized,1.4,https://www.pham.org/
+DE6799,BA3225,Flores-Silva,Alexa James,"2705 Cynthia Glen Suite 049
+Webershire, GA 25568",(280)246-1177,matthewoliver@example.net,authorized,2.3,http://jenkins-good.org/
+DE1206,BA6640,"Spears, Fox and Smith",Mrs. Beth Webb,"582 Lee Mountains Suite 324
+Lake Barbaraview, WY 10638",+1-868-259-4075,jimmydavis@example.com,independent,3.9,https://williams.info/
+DE5453,BA6223,Hardin-Johnston,Gail Wood,"1744 Michael Run Suite 814
+Victoriashire, KY 29282",+1-482-589-5847x11419,ucarter@example.org,authorized,4.6,https://www.mcneil-cooper.com/
+DE5591,BA8885,Morse-Sparks,Jennifer Campbell,"1606 Alyssa Inlet
+New Gary, PW 85541",001-413-323-0938x0814,daniel75@example.com,independent,2.1,http://johnson.info/
+DE8048,BA7292,Russell-Mcdonald,Karen Hudson,"Unit 3613 Box 9178
+DPO AA 21549",985-647-5875x3627,johnsonmegan@example.com,authorized,3.1,http://mack.com/
+DE8930,BA6302,"Harrison, Miller and Marshall",Aaron Jones,"6841 Collins Ford Apt. 151
+Kleinstad, FM 66238",(666)700-3662x464,michaelhogan@example.com,independent,1.1,http://www.morris-york.com/
+DE4267,BA4534,Guerrero-Watson,Jason Daniels,"82628 James Springs
+Johnport, MN 09767",559.204.7036,monteslisa@example.net,independent,1.7,https://www.lindsey.com/
+DE4144,BA4452,Vang and Sons,Kyle Salazar,"0208 Karla Keys
+New Kevinfort, MO 48858",(841)592-2845x173,ebutler@example.com,authorized,3.1,http://www.hernandez.biz/
+DE3946,BA9760,Ayala-Romero,Derrick Mcdonald,"PSC 9288, Box 9582
+APO AA 80138",001-339-656-6960x630,castrokimberly@example.net,authorized,5.0,http://www.matthews.com/
+DE9741,BA8305,Malone and Sons,Sherry Garcia,"66598 Shawn Mount Suite 405
+Hayeshaven, ME 31944",001-354-262-4292x4262,robertgalvan@example.com,authorized,2.6,http://www.clarke.com/
+DE3212,BA6262,Tran-York,Matthew Webb,"484 Graham Mission Suite 955
+Jeffreyside, MS 94946",+1-616-288-2891,jonathancruz@example.net,authorized,2.9,http://www.allen.com/
+DE9190,BA1959,Hampton-Fry,Anthony Peters,"29670 Garcia Track
+Eugenefurt, UT 80835",(545)652-9064,cheryl25@example.com,independent,4.7,http://www.rodriguez.net/
+DE6303,BA3664,Thomas Group,Christopher Munoz,"6253 Jennifer Points Apt. 418
+New Jaredside, FL 67983",+1-376-244-4444x81350,miguel43@example.com,authorized,4.9,https://williams-baldwin.org/
+DE7770,BA4591,Murphy-Rios,James Booth,"9506 Kane Spurs
+South James, CO 70344",4538086420,madisonchang@example.com,authorized,3.9,https://www.wilson.info/
+DE2408,BA2766,Howe and Sons,Crystal Melendez,"PSC 6894, Box 7029
+APO AA 72197",2894654200,samuelholt@example.org,authorized,1.8,https://www.green-diaz.com/
+DE4980,BA3478,Sanders Inc,Kayla Carson,"5314 Brent Parks
+Lake Katherine, AZ 11738",639-602-0945,michelle97@example.com,independent,2.5,https://www.jordan.com/
+DE1900,BA9589,"Barry, Durham and Williams",Charles Burns,"PSC 6196, Box 0367
+APO AP 71412",+1-371-673-8585x1789,sarah52@example.org,authorized,3.5,https://www.fry.com/
+DE5393,BA1548,"Jones, Chavez and Edwards",Jessica Glass,"23564 Catherine Union
+West Kenneth, MN 62214",(586)914-1314,thomaschristopher@example.com,authorized,4.2,http://www.stark.net/
+DE4882,BA2482,Black-Jackson,Kimberly Miller,"39995 Smith Meadow Apt. 836
+Lake Nancyborough, AZ 35921",001-372-345-4039x357,qmay@example.net,independent,1.6,https://www.west.com/
+DE9210,BA6071,Williams LLC,Anthony Jones,"1157 Christopher Shoal
+West Jesse, IN 02707",001-433-390-8288,rileylori@example.net,independent,3.7,http://www.mccarthy-osborn.com/
+DE4584,BA4029,Wallace and Sons,Jesse Lyons,"524 Manuel Isle
+Harrismouth, WY 26750",(347)546-4761,william37@example.org,independent,3.7,https://www.wilson.biz/
+DE1196,BA8866,"Townsend, Simon and Sanchez",Tracy Hudson,"381 Sanchez Springs Apt. 483
+Donovanfurt, PW 22137",306-501-6038x070,lcook@example.net,independent,1.7,http://www.evans-perez.biz/
+DE5110,BA7837,Meyers-King,Natalie Malone,"145 Bailey Mill
+Lake Jessica, KS 29961",(825)992-1326x224,pearsonsherry@example.net,authorized,2.4,https://nunez.org/
+DE1383,BA2715,Torres Ltd,Omar Aguilar,"617 Juan Ways Suite 011
+East April, OK 75613",838.608.1431,hvillegas@example.com,independent,4.6,https://green-patterson.com/
+DE6054,BA2767,Scott and Sons,Cassandra Conrad,"673 Johnson Via
+Port Michael, HI 05265",001-676-301-2121x0797,davisbrenda@example.org,authorized,1.9,http://simmons-gray.com/
+DE9086,BA9295,"Ramos, Kelly and Wilson",Michael Johnson,"USCGC Scott
+FPO AE 92957",895-496-3792x77305,amyfisher@example.com,authorized,2.9,http://www.white-miller.com/
+DE2923,BA3680,"Dillon, Elliott and Frazier",Kari Green,"661 Mcmahon Turnpike Apt. 467
+Lake Sarah, MP 26465",+1-369-921-3612x225,jason35@example.org,authorized,4.1,http://www.strong.com/
+DE2668,BA6490,Lewis-Rodriguez,Christopher Mercer,"0642 Angela Centers Suite 126
+North Adamport, WV 73766",001-228-964-2793x0102,zmartinez@example.org,authorized,1.7,https://www.turner.net/
+DE7201,BA4978,Sullivan and Sons,Jamie Rogers,"USNS Shaw
+FPO AE 94907",6083892218,holtamanda@example.com,independent,1.2,http://www.lopez.com/
+DE6012,BA6614,Weaver-Adams,Alexis Shelton,"64935 Ray Ports Apt. 938
+Kimberlyhaven, MN 97391",939.593.8049,danielchristian@example.net,independent,2.7,http://www.smith.biz/
+DE9643,BA6347,Simpson PLC,Ashley Krause,"000 Weber Throughway
+Hannahshire, NE 28300",5667547590,moorejonathan@example.org,independent,1.0,https://www.jackson-henderson.com/
+DE3374,BA4188,Duffy-Buchanan,Lindsay Smith,"Unit 1799 Box 5394
+DPO AP 98310",371.219.0192x7379,lauriemills@example.com,independent,1.1,http://jimenez.net/
+DE8868,BA2338,Welch Ltd,Robert Cooper,"1783 Shelly Turnpike Apt. 225
+Leeville, NH 50024",554.679.2361,warrenjohnson@example.com,independent,1.2,http://hamilton.com/
+DE2130,BA6671,"Rangel, Rice and George",Isaac Silva,"96419 Hunter Wall
+East Adam, ND 27403",915-617-1933x185,cassandrawebster@example.org,independent,2.9,https://www.gay.com/
+DE8375,BA4441,Phillips-Combs,Matthew Barrett,"196 Kevin Throughway
+Lake Jason, SC 21590",+1-267-987-2716x2237,yclark@example.net,independent,3.3,https://norris.com/
+DE8649,BA4216,Cherry Group,Jacqueline Lambert,"888 Michael Ridge Apt. 820
+East Dawn, MN 65480",001-760-729-6483x819,lflores@example.com,independent,3.0,https://www.nguyen.biz/
+DE8245,BA6992,Powers LLC,Patrick Taylor,"39639 Stone Coves
+Denisefort, CO 16272",9592043447,qscott@example.net,independent,3.1,http://www.hardin-shelton.biz/
+DE9902,BA5847,Duran Group,Keith Townsend,"1621 Allen Alley
+South Edward, FM 89050",592-299-5652x6454,lovewendy@example.net,authorized,1.5,https://www.bishop-boyer.com/
+DE3226,BA9354,Olson PLC,Robert Crawford,"766 Megan Creek
+South Brian, MA 66095",(925)580-7333,holson@example.net,independent,3.2,https://vasquez.com/
+DE7894,BA5212,"Ortega, Martin and Hicks",Christine Smith DDS,"8078 Jenna Forge Suite 020
+Erictown, MH 15306",561.929.9616,ashleyfernandez@example.com,independent,4.7,http://www.garcia.org/
+DE1745,BA2006,Reyes Inc,Bradley Sanchez,"7739 Best Inlet Apt. 973
+South Johntown, PA 96348",(956)960-0370x212,sydneybarnes@example.net,independent,1.7,https://www.joyce-cooper.com/
+DE2185,BA2164,Oconnell-Mora,David Watson,"080 Vicki Key
+Lake Troy, NY 79891",580-380-7677x137,ruizlisa@example.com,independent,4.3,http://davidson-tucker.com/
+DE1920,BA2772,Espinoza-Bell,Gene Allen,"96760 King Spurs
+Dianeborough, NV 91235",(990)339-5611,josephjohnson@example.com,independent,4.3,http://taylor-walter.info/
+DE9176,BA1537,Kennedy-Jordan,Donna Butler,"857 Griffith Passage Suite 165
+North Robert, GU 86288",+1-727-272-8159x84323,kbailey@example.net,authorized,1.4,http://miller-bradshaw.com/
+DE4967,BA1018,"Robinson, Dawson and Hart",Denise Medina,"12756 Barry Tunnel
+South Dwaynemouth, MH 84865",601.825.4512x814,dorseyharold@example.org,authorized,1.9,http://george.com/
+DE6023,BA5025,"Branch, Johnson and Lawrence",Amanda Meyers,"307 Annette Port
+East Caseyberg, MT 87781",9269260087,ibauer@example.com,independent,2.4,http://stewart.com/
+DE3869,BA3225,"Frederick, Mcclain and Conley",Dwayne Rhodes,"8315 Claudia Meadow Apt. 352
+Davisville, NV 80131",7608258488,ashleyphillips@example.net,authorized,4.0,http://johnson.net/

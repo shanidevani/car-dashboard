@@ -1,6 +1,6 @@
-payment_type_id,name,description
-PTY5124,always,Effort until with amount physical.
-PTY7123,it,Assume former main be.
-PTY5882,rather,Air find win yard start.
-PTY9787,into,Next energy camera put music authority.
-PTY8436,shoulder,Budget from per seek speak her.
+payment_type_id,name,Description
+PTY9767,Credit Card,"Payment made using a credit card, may include fees."
+PTY1721,Bank Transfer,Direct transfer of funds from buyer’s bank account.
+PTY3148,Cash,Full payment made in physical cash.
+PTY2017,Debit Card,"Payment made using a debit card, funds deducted immediately."
+PTY2321,Financing,Buyer uses a loan or financing to pay for the car in installments.

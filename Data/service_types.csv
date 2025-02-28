@@ -1,6 +1,6 @@
 service_type_id,term_name,description,due_days
-SET6200,Brake Service,"Checking brake pads, rotors, fluid levels, and ensuring optimal braking performance.",30
-SET3355,Fuel System Service,"Fuel injector cleaning, fuel pump inspection, and system efficiency testing.",24
-SET6676,Interior Cleaning & Upholstery Service,"Vacuuming, stain removal, and conditioning of seats and carpets.",10
-SET9485,Car Wrapping & Custom Paint,Applying protective wraps or custom paint jobs for personalization.,21
-SET9987,Car Wrapping & Custom Paint,Applying protective wraps or custom paint jobs for personalization.,23
+SET1627,Brake Service,"Checking brake pads, rotors, fluid levels, and ensuring optimal braking performance.",26
+SET2298,Brake Service,"Checking brake pads, rotors, fluid levels, and ensuring optimal braking performance.",14
+SET1705,Engine Diagnostic & Repair,Scanning for engine faults and repairing components affecting performance and efficiency.,18
+SET5586,Brake Service,"Checking brake pads, rotors, fluid levels, and ensuring optimal braking performance.",10
+SET3984,Suspension & Wheel Upgrades,"Upgrading wheels, suspension, and brakes for improved handling and ride quality.",29

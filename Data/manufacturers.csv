@@ -1,11 +1,26 @@
 mfg_id,name,brand_id,country_of_origin,contact_email,contact_phone,address,website,year_established
-MA8971,TechArt,PT1374,Germany,info@techart.de,+49 7152 93390,"TechArt Automobildesign GmbH, Ditzingen, Germany",https://www.techart.de,1987
-MA7904,Mansory,PT1525,Germany,info@mansory.com,+49 9634 9229 00,"MANSORY Design & Holding GmbH, Brand, Germany",https://www.mansory.com,1989
-MA1366,Novitec,PT1525,Germany,info@novitecgroup.com,+49 8271 921 980,"NOVITEC GmbH, Stetten, Germany",https://www.novitecgroup.com,1989
-MA8149,Pininfarina,PT5128,Italy,info@pininfarina.it,+39 011 943 8111,"Corso Stati Uniti, 106, 10078 Venaria Reale, Italy",https://www.pininfarina.it,1930
-MA3112,Scuderia Cameron Glickenhaus (SCG),PT5755,USA,info@glickenhausracing.com,Unknown,"Sleepy Hollow, New York, USA",https://www.scgcars.com,2004
-MA1052,Carlsson,PT4111,Germany,info@carlsson.de,+49 6871 92020,"Carlsson Autotechnik GmbH, Merzig, Germany",https://www.carlsson.de,1989
-MA4672,Lingenfelter Performance Engineering,PT6042,USA,info@lingenfelter.com,+1 260-724-2552,"Lingenfelter Performance Engineering, Decatur, IN, USA",https://www.lingenfelter.com,1973
-MA6033,Singer Vehicle Design,PT9570,USA,info@singervehicledesign.com,+1 818-528-7007,"Los Angeles, California, USA",https://www.singervehicledesign.com,2009
-MA2249,Gordon Murray Automotive,PT2373,UK,info@gordonmurraydesign.com,+44 1483 688222,"Shalford, Surrey, UK",https://www.gordonmurrayautomotive.com,2017
-MA3460,Hennessey Performance,PT4111,USA,info@hennesseyperformance.com,+1 979-885-1300,"9281 SW I-10 Frontage Rd, Sealy, TX 77474, USA",https://www.hennesseyperformance.com,1991
+MA6070,Brabus,BA6992,Germany,info@brabus.com,+49 2041 7770,"Brabus-Allee, 46240 Bottrop, Germany",https://www.brabus.com,1977
+MA7521,Alpina,BA4534,Germany,info@alpina.de,+49 8825 250,"Alpina Burkard Bovensiepen GmbH + Co. KG, Buchloe, Germany",https://www.alpina-automobiles.com,1965
+MA4070,Hennessey Performance,BA4216,USA,info@hennesseyperformance.com,+1 979-885-1300,"9281 SW I-10 Frontage Rd, Sealy, TX 77474, USA",https://www.hennesseyperformance.com,1991
+MA1129,RUF Automobile,BA3225,Germany,info@ruf-automobile.de,+49 8268 911 911,"Mindelheimer Straße 21, 87772 Pfaffenhausen, Germany",https://www.ruf-automobile.de,1939
+MA2896,Saleen,BA6071,USA,info@saleen.com,+1 800-888-8945,"2735 Wardlow Rd, Corona, CA 92882, USA",https://www.saleen.com,1983
+MA4879,Gemballa,BA9760,Germany,info@gemballa.com,+49 7142 91000,"GEMBALLA GmbH, Leonberg, Germany",https://www.gemballa.com,1981
+MA1650,Koenig Specials,BA6614,Germany,info@koenig-specials.com,Unknown,"Koenig Specials GmbH, Munich, Germany",https://www.koenig-specials.com,1977
+MA5819,TechArt,BA6490,Germany,info@techart.de,+49 7152 93390,"TechArt Automobildesign GmbH, Ditzingen, Germany",https://www.techart.de,1987
+MA9225,Carlsson,BA2715,Germany,info@carlsson.de,+49 6871 92020,"Carlsson Autotechnik GmbH, Merzig, Germany",https://www.carlsson.de,1989
+MA9424,Mansory,BA7292,Germany,info@mansory.com,+49 9634 9229 00,"MANSORY Design & Holding GmbH, Brand, Germany",https://www.mansory.com,1989
+MA1367,ABT Sportsline,BA7837,Germany,info@abt-sportsline.de,+49 8331 280,"ABT Sportsline GmbH, Kempten, Germany",https://www.abt-sportsline.com,1896
+MA1994,Novitec,BA4978,Germany,info@novitecgroup.com,+49 8271 921 980,"NOVITEC GmbH, Stetten, Germany",https://www.novitecgroup.com,1989
+MA2380,Shelby American,BA4978,USA,info@shelby.com,+1 702-942-7325,"6405 Ensworth St, Las Vegas, NV 89119, USA",https://www.shelby.com,1962
+MA5086,Lingenfelter Performance Engineering,BA6614,USA,info@lingenfelter.com,+1 260-724-2552,"Lingenfelter Performance Engineering, Decatur, IN, USA",https://www.lingenfelter.com,1973
+MA1517,Callaway Cars,BA5025,USA,info@callawaycars.com,+1 860-434-9002,"3 High Street, Old Lyme, CT 06371, USA",https://www.callawaycars.com,1977
+MA5214,Zagato,BA2715,Italy,info@zagato.it,+39 02 937 9711,"Via Arese 30, 20017 Rho (MI), Italy",https://www.zagato.it,1919
+MA6862,Pininfarina,BA4029,Italy,info@pininfarina.it,+39 011 943 8111,"Corso Stati Uniti, 106, 10078 Venaria Reale, Italy",https://www.pininfarina.it,1930
+MA3455,Bertone,BA3225,Italy,info@bertone.it,+39 011 601 9411,"Grugliasco, Turin, Italy",https://www.bertone.it,1912
+MA7548,Radford,BA6302,UK,info@radford.co,Unknown,"Radford Coachbuilders, UK",https://www.radford.co,2021
+MA1408,Ares Design,BA8885,Italy,info@aresdesign.com,+39 059 821 603,"Ares Design, Modena, Italy",https://www.aresdesign.com,2014
+MA2322,Singer Vehicle Design,BA9760,USA,info@singervehicledesign.com,+1 818-528-7007,"Los Angeles, California, USA",https://www.singervehicledesign.com,2009
+MA3332,De Tomaso,BA6992,Italy,info@detomaso-automobili.com,Unknown,"De Tomaso Automobili, Italy",https://www.detomaso-automobili.com,1959
+MA8273,Gordon Murray Automotive,BA2767,UK,info@gordonmurraydesign.com,+44 1483 688222,"Shalford, Surrey, UK",https://www.gordonmurrayautomotive.com,2017
+MA6733,Scuderia Cameron Glickenhaus (SCG),BA9589,USA,info@glickenhausracing.com,Unknown,"Sleepy Hollow, New York, USA",https://www.scgcars.com,2004
+MA7001,Rezvani Motors,BA2164,USA,info@rezvanimotors.com,+1 714-833-7675,"17895 Sky Park Cir, Irvine, CA 92614, USA",https://www.rezvanimotors.com,2014
